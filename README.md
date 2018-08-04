@@ -4,7 +4,7 @@ This is an R shiny app to create calendar plot using ggplot2.
 
 ![](preview.png)
 
-This app requires the following R packages: `ggplot2, shiny, colourpicker`. Run app using `runApp("app.R")`.
+This app requires the following R packages: `ggplot2, shiny, colourpicker`. Run app using `runApp("app.R")`. Click [here](https://roymf.shinyapps.io/calendar_planner/) to see a demo of this app. This link may not always be active.
 
 The app has been tested on:
 
