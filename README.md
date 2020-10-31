@@ -1,6 +1,6 @@
-# Calendar Plot
+# Calendar
 
-This is an R shiny app to create calendar plot using ggplot2. 
+This is an R shiny app to create a calendar using ggplot2. 
 
 ![](preview.png)
 
